@@ -1,1 +1,14 @@
-Hello!
+Python's file contains the results of the exploratory data analysis and statistical data analysis.
+
+List of dashboard elements:
+1) In the upper right part of the dashboard there are slice filters that allow you to select the areas of interest, as well as the experience of the prospective employee. This solution will allow you to get acquainted in detail with the information on the queries of interest.
+2) Just below on the left are 3 KPIs that show the following:
+• The number of regions in which specialists are in demand (allows you to assess how much demand is in a given direction on a regional scale);
+• The number of current vacancies (allows you to assess the relevance of a vacancy using a quantitative indicator)
+• The value of the average salary level (allows you to analyze the potential income level of specialists, on the basis of which you can form an offer of an educational product both at a price and as a guideline of the expected salary for people interested in training)
+3) On the left in the middle there is a table reflecting the assessment of wages in the regions, taking into account the deviation from the average value. For a better perception, wage values that differ from the average are highlighted in green, and in red to a lesser extent. Similarly for percentages, only depending on the sign. The analysis of s/p in the regions will allow us to assess the differences in the level of payment, if any, which will allow us to form the final offer.
+4) On the bottom left there is a table reflecting the assessment of work depending on work experience. Analyzing the current indicators, we can conclude how experts with and without experience are evaluated on average, which, in turn, will also allow us to form a potential salary offer, as well as take them into account when forming the cost of the product.
+5) There is a map in the middle for a visual understanding of the scale of the profession's demand.
+6) On the right in the middle there is a table reflecting information about vacancies: the average cost of wages, the demand for vacancies, as well as the deviation of the wage value from the average. The analysis of this table will allow you to identify the most relevant vacancies and assess the potential value of the expected salary.
+7) At the bottom there are two bar charts with accumulation. They show the TOP cities and skills. This information will allow you to identify the skills that employers expect from potential specialists, as well as to identify the most heated regions, which will allow you to make a list of zones where the purchased advertising traffic will be addressed.
+8) There is a filter cleaning button on the top right.
